@@ -12,7 +12,7 @@ searchInput.addEventListener("input", (event) => {
 });
 
 searchBtn.addEventListener("click", (event) => {
-  // handleClick();
+  handleClick();
 });
 
 async function doGetRequest() {
